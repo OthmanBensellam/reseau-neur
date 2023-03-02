@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "P05Njkev9MtTYEJYNoTOW05MyTqugH19F+fW98Sbnhsc0fJewiGU/xmCQgEvJ9aq1baBJh4KXl4FvcEWTPVYPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\RegressionConsole\\RegressionConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\othman\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

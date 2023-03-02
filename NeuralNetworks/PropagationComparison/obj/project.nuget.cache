@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIjsHsibq3lCWvPo5Yv7fhe1LUoFxUJ7pB8uNNBW6Se+w+cWvj1HcRkJDw0UgL8ct5I8IwSdHGGdqRbNUkSR9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\PropagationComparison\\PropagationComparison.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\othman\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.data.datasetextensions\\4.5.0\\system.data.datasetextensions.4.5.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

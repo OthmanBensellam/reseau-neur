@@ -1,0 +1,371 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\TrainingConsole\\TrainingConsole.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\DataProviders\\DataProviders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\DataProviders\\DataProviders.csproj",
+        "projectName": "DataProviders",
+        "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\DataProviders\\DataProviders.csproj",
+        "packagesPath": "C:\\Users\\othman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\DataProviders\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\othman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\othman\\source\\repos\\ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj",
+        "projectName": "NeuralNetwork.Common",
+        "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj",
+        "packagesPath": "C:\\Users\\othman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\othman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\othman\\source\\repos\\ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork.csproj",
+        "projectName": "NeuralNetwork",
+        "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork.csproj",
+        "packagesPath": "C:\\Users\\othman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\othman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\othman\\source\\repos\\ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            },
+            "System.Text.Json": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\Trainer\\Trainer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\Trainer\\Trainer.csproj",
+        "projectName": "Trainer",
+        "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\Trainer\\Trainer.csproj",
+        "packagesPath": "C:\\Users\\othman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\Trainer\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\othman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\othman\\source\\repos\\ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.15.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\TrainingConsole\\TrainingConsole.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\TrainingConsole\\TrainingConsole.csproj",
+        "projectName": "TrainingConsole",
+        "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\TrainingConsole\\TrainingConsole.csproj",
+        "packagesPath": "C:\\Users\\othman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\TrainingConsole\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\othman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\othman\\source\\repos\\ConsoleApp1": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\DataProviders\\DataProviders.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\DataProviders\\DataProviders.csproj"
+              },
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork.Common\\NeuralNetwork.Common.csproj"
+              },
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\NeuralNetwork\\NeuralNetwork.csproj"
+              },
+              "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\Trainer\\Trainer.csproj": {
+                "projectPath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\Trainer\\Trainer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[30.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

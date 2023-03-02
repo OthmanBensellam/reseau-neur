@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oC5OH4YYYAaCOGI2n1N0KkNO3EjKD+TU9cpyZWUjOz+dWk6ngyMxIr+DAA/pMi6htUQsAX0uomFS/0S6BFp/Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\othman\\Downloads\\dl-pricer\\ensimag-dl-pricing\\NeuralNetworks\\BooleanFunctionTesterConsole\\BooleanFunctionTesterConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\othman\\.nuget\\packages\\mathnet.numerics\\4.15.0\\mathnet.numerics.4.15.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\othman\\.nuget\\packages\\system.text.json\\7.0.1\\system.text.json.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
