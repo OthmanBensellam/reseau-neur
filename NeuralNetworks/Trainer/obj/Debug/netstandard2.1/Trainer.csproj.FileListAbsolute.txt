@@ -1,0 +1,13 @@
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\bin\Debug\netstandard2.1\Trainer.deps.json
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\bin\Debug\netstandard2.1\Trainer.dll
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\bin\Debug\netstandard2.1\Trainer.pdb
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\bin\Debug\netstandard2.1\NeuralNetwork.Common.dll
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\bin\Debug\netstandard2.1\NeuralNetwork.Common.pdb
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.csproj.AssemblyReference.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.AssemblyInfoInputs.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.AssemblyInfo.cs
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.csproj.CoreCompileInputs.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.csproj.CopyComplete
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.dll
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\Trainer\obj\Debug\netstandard2.1\Trainer.pdb

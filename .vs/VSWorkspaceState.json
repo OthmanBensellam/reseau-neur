@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NeuralNetworks",
+    "\\NeuralNetworks\\BooleanFunctionTester",
+    "\\NeuralNetworks\\BooleanFunctionTesterConsole",
+    "\\NeuralNetworks\\NeuralNetwork",
+    "\\NeuralNetworks\\NeuralNetwork\\Layers"
+  ],
+  "SelectedNode": "\\NeuralNetworks\\NeuralNetwork\\Layers\\StandardLayer.cs",
+  "PreviewInSolutionExplorer": false
+}

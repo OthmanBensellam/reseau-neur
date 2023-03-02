@@ -1,0 +1,15 @@
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\bin\Debug\netstandard2.1\DataProviders.deps.json
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\bin\Debug\netstandard2.1\DataProviders.dll
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\bin\Debug\netstandard2.1\DataProviders.pdb
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\bin\Debug\netstandard2.1\NeuralNetwork.Common.dll
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\bin\Debug\netstandard2.1\NeuralNetwork.Common.pdb
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.csproj.AssemblyReference.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.Properties.Resources.resources
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.csproj.GenerateResource.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.AssemblyInfoInputs.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.AssemblyInfo.cs
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.csproj.CoreCompileInputs.cache
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.csproj.CopyComplete
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.dll
+C:\Users\othman\Downloads\dl-pricer\ensimag-dl-pricing\NeuralNetworks\DataProviders\obj\Debug\netstandard2.1\DataProviders.pdb
