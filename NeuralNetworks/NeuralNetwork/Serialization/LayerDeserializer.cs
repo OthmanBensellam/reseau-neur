@@ -1,9 +1,11 @@
-﻿using MathNet.Numerics.LinearAlgebra;
+using MathNet.Numerics.LinearAlgebra;
 using NeuralNetwork.Common.Activators;
 using NeuralNetwork.Common.Layers;
 using NeuralNetwork.Common.Serialization;
 using NeuralNetwork.Layers;
 using System;
+
+using NeuralNetwork.Common.GradientAdjustmentParameters;
 
 namespace NeuralNetwork.Serialization
 {
@@ -27,7 +29,12 @@ namespace NeuralNetwork.Serialization
             var weights = Matrix<double>.Build.DenseOfRowArrays(standardSerialized.Weights);
             var bias = Matrix<double>.Build.DenseOfColumnArrays(new double[][] { standardSerialized.Bias });
             var activator = ActivatorFactory.Build(standardSerialized.ActivatorType);
-            return new StandardLayer(weights, bias, batchSize, activator);
+
+            //added
+            IGradientAdjustmentParameters parames = standardSerialized.GradientAdjustmentParameters;
+            
+            return new StandardLayer(weights, bias, batchSize, activator,parames);
+            
         }
     }
 }
